@@ -3,12 +3,12 @@ package separation
 import (
 	"os"
 
-	"github.com/GoAdminGroup/go-admin/modules/config"
-	adminTemplate "github.com/GoAdminGroup/go-admin/template"
-	"github.com/GoAdminGroup/go-admin/template/components"
-	"github.com/GoAdminGroup/go-admin/template/types"
 	"github.com/GoAdminGroup/themes/adminlte/resource"
 	"github.com/GoAdminGroup/themes/common"
+	"github.com/jinge10/go-admin/modules/config"
+	adminTemplate "github.com/jinge10/go-admin/template"
+	"github.com/jinge10/go-admin/template/components"
+	"github.com/jinge10/go-admin/template/types"
 )
 
 type Theme struct {
